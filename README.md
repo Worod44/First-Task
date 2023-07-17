@@ -12,7 +12,15 @@ Download Ubuntu 20.04 using VM from the following
 [Ubuntu 20.04 link](https://releases.ubuntu.com/20.04.6/?_ga=2.106549827.1335148733.1689627889-2079856977.1684269564)
 
 And then install it on the Linux system. I will show the steps to install it with pictures:
-
+![u](https://github.com/Worod44/First-task/assets/95488818/d333e58d-87ec-4f2c-9bf3-782669ad8fb6)
+![u2](https://github.com/Worod44/First-task/assets/95488818/ee60c9b8-ac9b-4015-bd99-ac5ef38ba141)
+![u3](https://github.com/Worod44/First-task/assets/95488818/25d19bac-9971-4b0d-93c8-72a9419116cb)
+![u4](https://github.com/Worod44/First-task/assets/95488818/78e16c73-a082-458f-b072-65e20758c515)
+![u5](https://github.com/Worod44/First-task/assets/95488818/a272eea4-1f06-415f-bbd0-aa460714de8b)
+![u6](https://github.com/Worod44/First-task/assets/95488818/308ea245-56ec-46c5-978e-14ca53c81597)
+![u7](https://github.com/Worod44/First-task/assets/95488818/55dad306-d483-425a-b479-4659aac1b93e)
+![u8](https://github.com/Worod44/First-task/assets/95488818/8f177617-a27b-41a1-a5e0-c97b924e930f)
+<img width="402" alt="u9" src="https://github.com/Worod44/First-task/assets/95488818/9275baf9-fb54-4f24-bfdf-6c70c1ef46bf">
 
 
 
