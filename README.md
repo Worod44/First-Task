@@ -108,6 +108,7 @@ The last thing to do is to run the Rviz program using the following command
 roslaunch robot_arm_pkg check_motors.launch
 ```
 <img width="356" alt="p1" src="https://github.com/Worod44/First-task/assets/95488818/f6060378-b4b7-4788-a129-8497ca652e36">
+<img width="366" alt="p2" src="https://github.com/Worod44/First-task/assets/95488818/de309d71-6493-4cfc-98d5-8b50d1ac558c">
 
 
 
