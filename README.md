@@ -16,6 +16,11 @@ And then install it on the Linux system. I will show the steps to install it wit
 ## 3-ROS Noetic installation 
 After installing and configuring Ubuntu, I will download the Rose Noetic on it
 
+###### **Setup your sources.list**
+Setup your computer to accept software from packages.ros.org.
+
+
+
 
 
 
