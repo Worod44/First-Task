@@ -14,6 +14,10 @@ Download Ubuntu 20.04 using VM from the following
 And then install it on the Linux system. I will show the steps to install it with pictures:
 
 
+
+
+After downloading Ubuntu, we will open the terminal and write the commands to download **ROS Noetic**
+
 ## 3-ROS Noetic installation 
 After installing and configuring Ubuntu, I will download the Rose Noetic on it
 [ROS Noetic link](http://wiki.ros.org/noetic/Installation/Ubuntu)
@@ -108,7 +112,7 @@ The last thing to do is to run the Rviz program using the following command
 roslaunch robot_arm_pkg check_motors.launch
 ```
 <img width="356" alt="p1" src="https://github.com/Worod44/First-task/assets/95488818/207124b6-fe81-4286-8e1f-0863608678f7">
-<img width="366" alt="p2" src="https://github.com/Worod44/First-task/assets/95488818/de309d71-6493-4cfc-98d5-8b50d1ac558c">
+<img width="366" alt="p2" src="https://github.com/Worod44/First-task/assets/95488818/2ae7f85f-8bf5-4df7-8ab4-c57b12206934">
 
 
 
