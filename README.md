@@ -19,6 +19,9 @@ After installing and configuring Ubuntu, I will download the Rose Noetic on it
 ###### **Setup your sources.list**
 Setup your computer to accept software from packages.ros.org.
 
+```
+
+
 
 
 
