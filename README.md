@@ -4,9 +4,9 @@ Ubuntu install of ROS Noetic
 ## 1- Installation Oracle VM VirtualBox Manager
 First, I downloaded Oracle VM VirtualBox Manager from this 
 [VM link](https://www.virtualbox.org/wiki/Downloads)
-
 To install Linux on a Windows machine
-
+<img width="500" alt="VM" src="https://github.com/Worod44/First-task/assets/95488818/f4620bd8-da94-419a-adaf-f2fa46042956">
+<img width="500" alt="VM2" src="https://github.com/Worod44/First-task/assets/95488818/e6043c31-6565-452d-9d08-2e1032fc92d0">
 ## 2-download Ubuntu 20.04 desktop image
 Download Ubuntu 20.04 using VM from the following 
 [Ubuntu 20.04 link](https://releases.ubuntu.com/20.04.6/?_ga=2.106549827.1335148733.1689627889-2079856977.1684269564)
