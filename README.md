@@ -17,6 +17,7 @@ And then install it on the Linux system.[Tutorial download Ubuntu link](https://
 
 After downloading Ubuntu, we will open the terminal and write the commands to download **ROS Noetic**
 
+<img width="500" alt="termenal" src="https://github.com/Worod44/First-task/assets/95488818/d2a9efb4-9e70-4f40-83f3-f6a6173b8b49">
 
 ## 3-ROS Noetic installation 
 After installing and configuring Ubuntu, I will download the Rose Noetic on it
